@@ -1,0 +1,24 @@
+{
+  "articles": [
+    {
+      "id": "1",
+      "title": "Sarapan",
+      "content": "Nasi Goreng"
+    },
+    {
+      "id": "2",
+      "title": "Makan Siang",
+      "content": "Ayam Geprek"
+    },
+    {
+      "id": "3",
+      "title": "Makan Malam",
+      "content": "Sate Ayam"
+    },
+    {
+      "id": "4",
+      "title": "Makan Malam 2",
+      "content": "Martabak Telur"
+    }
+  ]
+}
